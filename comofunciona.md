@@ -23,9 +23,7 @@ Qual terá o melhor atendimento?
 
 ```     
     é um serviço caro e de primeira, mas lento né? 
-    
     A regra de bloquear os garçons e ter que contratar um garçon para cliente, 
-    
     torna o serviço caro e lento.
 
 ```
@@ -43,8 +41,8 @@ Qual terá o melhor atendimento?
 - [ ] O chef tocou o sininho avisando que o pedido da mesa 1 já ficou pronto e Eveneto corre para pegar e fazer a entrega do pedido
 
 ```
-    O segredo de Eveneto é que ele sabe trabalahar de maneira assìncrona, fazendo mais de 1 evento de cada vez e não tem nada que o bloqueie. 
-    
+    O segredo de Eveneto é que ele sabe trabalahar de maneira assìncrona,
+    fazendo mais de 1 evento de cada vez e não tem nada que o bloqueie. 
     Ele é muito solicitado e faz seu trabalho muito bem feito
 ```
 
