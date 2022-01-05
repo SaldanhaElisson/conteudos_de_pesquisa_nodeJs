@@ -35,7 +35,7 @@ Qual terá o melhor atendimento?
 
 - [ ] Mesa 1: O cliente vai fazer o pedido de uma pizza
 
-    - [ ]Eveneto Lupin pega o pedido e leva para o Chef
+    - [ ] Eveneto Lupin pega o pedido e leva para o Chef
     - [ ] Volta com gosto de gás para a próxima mesa
 - [ ] Mesa2: O cliente faz o pedido de uma salada
 
