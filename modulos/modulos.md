@@ -71,7 +71,7 @@ console.log(module.exports)
 Para importar algo basta utilizarmos `require` refereciando o caminho do arquivo onde guardamos os recursos no `exports`. Como no exemplo a seguir:
 
 ```
-// o arquivo que estou exportanto ateriomente é app, por is estamos refereciando aqui
+// o nome do arquivo que estou exportanto ateriomente é app, por isso estamos refereciando aqui
 const pessoa = require('./app)
 
 
@@ -86,7 +86,7 @@ console.log(pessoa)
 
 ```
 
-e também podemos importar por destrução, somente um parametro onde há diversos, como no caso anterios que tem varios parametro dentro do `module.exports`
+e também podemos importar por destruturação, somente um parametro onde há diversos, como no caso anterios que tem varios parametros dentro do `module.exports`
 
 ```
 const {falaNome} = require('./app)
@@ -103,4 +103,5 @@ Para importar algum modulo baixado pelo npm ou do core do node, basta  colocar  
 const path = require('path')
 //path é modulo do core do node, como podemos percebe não precisou eu digitar o caminho do arquivo
 ```
+
 

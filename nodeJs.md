@@ -28,11 +28,11 @@
 
 - Interpretador de JS para a linguagem de máquina
 - Criado em C++
-- Focado para CHrome mastem todo o cuidado de não quebrar o Node
+- Focado para Chrome matem todo o cuidado de não quebrar o Node
 - Não possui o DOM, console ou File System
 
-## Reumo do Funcionamento do Node
+## Resumo do Funcionamento do Node
 
-![Resumo de como funciona o NodJs](resumo.png)
+![Resumo de como funciona o NodJs](/img/resumo.png)
 
 

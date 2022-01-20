@@ -1,0 +1,18 @@
+
+:root{
+    --viole-color: hsl(257, 40%, 49%);
+    --soft_magenta: hsl(300, 69%, 71%);
+    --font-head: 
+}
+
+body{
+    color: black;
+}
+
+div{
+    background-color: black;
+}
+
+header{
+    background-color: black;
+}
